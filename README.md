@@ -3,3 +3,5 @@
 This git branch contains my solution to the first project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
 ## [Project 2](https://github.com/danherrera/DeepLearning/tree/project/2-ImageClassification): Image Classification
 This git branch contains my solution to the second project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
+## [Project 3](https://github.com/danherrera/DeepLearning/tree/project/3-TvScript): TV Script
+This git branch contains my solution to the third project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
