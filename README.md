@@ -1,7 +1,7 @@
 # DeepLearning
-## [Project 1](https://github.com/danherrera/DeepLearning/tree/project/1-BikeShare): First Neural Network
-This git branch contains my solution to the first project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
-## [Project 2](https://github.com/danherrera/DeepLearning/tree/project/2-ImageClassification): Image Classification
-This git branch contains my solution to the second project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
-## [Project 3](https://github.com/danherrera/DeepLearning/tree/project/3-TvScript): TV Script
-This git branch contains my solution to the third project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
+## [Project 1](https://github.com/danherrera/DeepLearning/tree/master/project1): First Neural Network
+This directory contains my solution to the first project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
+## [Project 2](https://github.com/danherrera/DeepLearning/tree/master/project2): Image Classification
+This directory contains my solution to the second project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
+## [Project 3](https://github.com/danherrera/DeepLearning/tree/master/project3): TV Script
+This directory contains my solution to the third project. It includes the Jupyter notebook (the .ipynb file) and its "printed" HTML version.
