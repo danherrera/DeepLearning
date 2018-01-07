@@ -6,4 +6,4 @@ This repository contains projects and exercises I've completed relating to deep 
 
 [Jose Protilla's Complete Guide to TensorFlow](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/v4/overview) ([My Coursework](https://github.com/danherrera/DeepLearning/tree/master/cgtf))
 
-[Udacity's Self-Sriving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) ([My Coursework)[https://github.com/danherrera/DeepLearning/tree/master/carnd])
+[Udacity's Self-Sriving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) ([My Coursework](https://github.com/danherrera/DeepLearning/tree/master/carnd))
