@@ -30,12 +30,12 @@ My pipeline consisted of 6 steps:
   5. Only keep the region of interest (the bottom portion of the image where the lanes reside)
   6. Apply lines onto the original image
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by separating all lines based on their slopes (positive slopes referred to left line, while negative slopes referred to right line). Once separated, I found the linear regression of each set of points to determine the best fitting line for each lane.
+In order to draw a single line on the left and right lanes, I modified the draw_lines() function by separating all lines based on their slopes (positive slopes referred to left line, while negative slopes referred to right line). Additionally, I only kept the line with the greatest length for each side.
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-Frankly, the linear regression lines are not aligned with the lanes on the road. The solution is far from ideal.
+The current pipeline is a bit jittery and sometimes does not pick up the lane correctly.
 
 ### 3. Suggest possible improvements to your pipeline
 
-To improve the identified lanes, not performing a linear regression and using the original implementation of draw_lines yields better results.
+A possible improvement would be to consider incorporating previously viewed frames when drawing the lines for the current frame's lanes. Realistically, the lanes shoud not change drastically among a close set of frames.
